@@ -517,4 +517,4 @@ function subCommand(arguments, receivedMessage) {
     receivedMessage.channel.send("The total of " + arguments + " is " + product.toString())
 }
 
-client.login("NzEzNTg3Mzg1MjQxMzA1MjEx.XsiU0g.VHQuqGSZaGKenUQIQ4N-_bJ0YBM");
+client.login("NzEzNTg3Mzg1MjQxMzA1MjEx.XsyxyA.MdxSLdWruyhDgdBMvRJSUVRsmJU");
